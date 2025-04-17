@@ -36,5 +36,5 @@ A foundational project demonstrating core Java concepts and OOP principles.
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/siddharthsharma0909)
-- 📧 Email: sid.sharma9@outlook.com
+- [LinkedIn]
+- 📧 Email: siddharthbharti@outlook.com
