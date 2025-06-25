@@ -1,7 +1,7 @@
 ## Hi there 👋
 # 👋 Hello, I'm Siddharth Bharti
 
-🎓 Persuing BE in CSE @AMCEC, Bangalore<br>
+🎓 Pursuing BE in CSE @AMCEC, Bangalore<br>
 💼 Aspiring SWD/SWE<br>
 🌍 Based in BLR, Karnataka
 
