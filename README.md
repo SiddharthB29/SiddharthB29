@@ -1,24 +1,23 @@
 ## Hi there 👋
 # 👋 Hello, I'm Siddharth Bharti
 
-🎓 *Computer Science Graduate*  
-💼 Aspiring Software Developer  
-🌍 Based in London, UK
+🎓 Persuing BE in CSE @AMCEC, Bangalore 
+💼 Aspiring SWD/SWE
+🌍 Based in BLR, Karnataka
 
 ---
 
 ## 🛠 Skills & Technologies
 
-- *Languages*: Java, Python, HTML
+- *Languages*: C, C++
 - *Databases*: MySQL
-- *Tools*: Docker, MS Office
 
 ---
 
 ## 📂 Projects
 
 ### [Through-the-Hallways](https://github.com/SiddharthB29/Through-the-Hallways)
-An immersive game developed during Gameathon 2023, focusing on maze navigation and puzzle-solving.
+An immersive game developed during Gameathon 2k24, focusing on maze navigation and puzzle-solving.
 
 ### [Game](https://github.com/SiddharthB29/game)
 A collaborative project showcasing real-time multiplayer functionalities.
@@ -36,5 +35,5 @@ A foundational project demonstrating core Java concepts and OOP principles.
 
 ## 📫 Connect with Me
 
-- [LinkedIn]
+- LinkedIN- https://www.linkedin.com/in/siddharth-bharti-2k27
 - 📧 Email: siddharthbharti@outlook.com
