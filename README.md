@@ -25,6 +25,8 @@ A collaborative project showcasing real-time multiplayer functionalities.
 ### [Project Demo](https://github.com/SiddharthB29/project-demo)
 A foundational project demonstrating core Java concepts and OOP principles.
 
+### [My Portfolio]()
+
 ---
 
 ## 📈 GitHub Stats
