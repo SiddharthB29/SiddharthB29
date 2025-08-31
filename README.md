@@ -16,7 +16,7 @@
 
 ## 📂 Projects
 
-### [Through-the-Hallways](https://github.com/SiddharthB29/Through-the-Hallways)
+### [Through-the-Hallways](https://github.com/SiddharthB29/Through-The-Hallway)
 An immersive game developed during Gameathon 2k24, focusing on maze navigation and puzzle-solving.
 
 ### [Game](https://github.com/SiddharthB29/game)
