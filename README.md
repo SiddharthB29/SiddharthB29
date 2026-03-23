@@ -2,7 +2,7 @@
 # 👋 Hello, I'm Siddharth Bharti
 
 🎓 Pursuing BE in CSE @AMCEC, Bangalore<br>
-💼 Aspiring SWD/SWE<br>
+💼 Competitive Programmer along with Web Developer<br>
 🌍 Based in BLR, Karnataka
 
 ---
@@ -15,17 +15,11 @@
 
 ## 📂 Projects
 
-### [Through-the-Hallways](https://github.com/SiddharthB29/Through-The-Hallway)
-An immersive game developed during Gameathon 2k24, focusing on maze navigation and puzzle-solving.
+### [Portfolio-Website](https://github.com/SiddharthB29/Portfolio-Website)
+This repository showcases my projects, coding practice, and continuous learning journey toward becoming a software engineer.
 
-### [Game](https://github.com/SiddharthB29/game)
-A collaborative project showcasing real-time multiplayer functionalities.
-
-### [Project Demo](https://github.com/SiddharthB29/project-demo)
-A foundational project demonstrating core Java concepts and OOP principles.
-
-### [My Portfolio](https://github.com/SiddharthB29/Portfolio)
-A webpage designed with html, css and javascript.
+### [Anaaj-Mitra](https://github.com/SiddharthB29/Anaaj-Mitra)
+Anaaj Mitra is a smart, inclusive system that ensures efficient ration distribution — “Ration for All, Without Hassle.”
 
 ---
 
@@ -37,5 +31,5 @@ A webpage designed with html, css and javascript.
 
 ## 📫 Connect with Me
 
-- LinkedIN- https://www.linkedin.com/in/siddharth-bharti-2k27
+- LinkedIN- https://www.linkedin.com/in/siddharthbhartii/
 - 📧 Email: siddharthbharti@outlook.com
