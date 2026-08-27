@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharthbhartii/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:siddharthbharti@outlook.com) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://siddharth-bharti.vercel.app)
 
-![Open to work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20work-f97316?style=flat-square)
+![Building something](https://img.shields.io/badge/%F0%9F%94%B5%20Building%20something-3b82f6?style=flat-square) [![Building -&gt; HireNest](https://img.shields.io/badge/Building%20-%3E%20HireNest-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/SiddharthB29/HireNest)
 
 </div>
 
@@ -24,7 +24,7 @@
 
 - ⌖ **Location** · Bangalore, IND
 - ⟳ **Learning** · Django Framework and FastAPI
-- ✦ **Fun fact** · I like clean and bug free coding.
+- ✦ **Fun fact** · I like Japanese.
 
 ### Featured Projects
 
