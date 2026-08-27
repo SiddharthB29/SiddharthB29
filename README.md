@@ -59,8 +59,15 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SiddharthB29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Siddharth Bharti stats"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthB29&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Siddharth Bharti top languages"/>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SiddharthB29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Siddharth Bharti stats"/>
 
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthB29&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Siddharth Bharti top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SiddharthB29&theme=tokyonight" alt="Siddharth Bharti contribution graph"/>
+</p>
 </div>
 
 ---
