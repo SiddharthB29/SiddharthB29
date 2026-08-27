@@ -67,7 +67,7 @@
 
 <div align="center">
 
-<sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge/">ReadmeForge</a> · <a href="https://github.com/SiddharthB29">github.com/SiddharthB29</a></sub>
+<sub><a href="https://github.com/SiddharthB29">github.com/SiddharthB29</a></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=f97316&height=120&section=footer" width="100%" alt="Footer wave"/>
 
