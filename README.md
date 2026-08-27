@@ -48,6 +48,10 @@
 
 <img src="https://skillicons.dev/icons?i=spring,mongodb,mysql,postgres,django,flask,fastapi&theme=dark" alt="Backend & Databases"/>
 
+**DevOps & Cloud**
+
+<img src="https://skillicons.dev/icons?i=azure,aws,git,vscode&theme=dark" alt="DevOps & Cloud"/>
+
 ### Languages
 - 🇬🇧 **English** · ![Intermediate](https://img.shields.io/badge/-Intermediate-f7c948?style=flat-square)
 
